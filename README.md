@@ -1,1 +1,1 @@
-I have created this project to show how communication in various companies changed over time during precovid and postcovid.
+I have created this project to show how communication in various companies changed over time during precovid and postcovid. The goal was to do sentiment analysis on twitter data that cleary showed the changes in the overall communication post and pre covid times
